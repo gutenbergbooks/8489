@@ -1,4 +1,3 @@
-
 [The Greek transliterations throughout this file are either missing or
 very suspect.]
 
@@ -4917,7 +4916,7 @@ science, or knowledge, and sophia, or wisdom.
 Mr. Coleridge said the Eudemian Ethics; but I half suspect he must have
 meant the Metaphysics, although I do not know that _all_ the fourteen books
 under that title have been considered non-genuine. The [Greek: Aethicha
-Eusaemeia] are not Aristotle's. To what passage in particular allusion is
+Eudaemeia] are not Aristotle's. To what passage in particular allusion is
 here made, I cannot exactly say; many might be alleged, but not one seems
 to express the true Platonic idea, as Mr. Coleridge used to understand it;
 and as, I believe, he ultimately considered ideas in his own philosophy.
@@ -14308,4 +14307,3 @@ THE END.
 
 End of the Project Gutenberg EBook of Specimens of the Table Talk of
 S.T.Coleridge, by Coleridge
-
